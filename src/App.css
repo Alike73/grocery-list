@@ -128,7 +128,7 @@ input {
   background-image: linear-gradient(to top, #c79081 0%, #dfa579 100%);
   background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
   border-radius: 0;
-  font-size: clamp(14px, calc(var(--size)*1.2), 20px);
+  font-size: clamp(24px, calc(var(--size)*1.2), 28px);
   font-weight: 200;
   color: var(--white);
   border: none;
@@ -136,7 +136,7 @@ input {
 }
 
 input::placeholder {
-  font-size: clamp(14px, calc(var(--size)*1.2), 20px);
+  font-size: clamp(24px, calc(var(--size)*1.2), 28px);
   font-weight: 200;
   color: var(--white);
   text-shadow: 0px 4px 3px rgb(0 0 0 / 40%), 0px 8px 13px rgb(0 0 0 / 10%), 0px 18px 23px rgb(0 0 0 / 10%);
@@ -167,7 +167,7 @@ ul li {
   list-style-type: none;
   padding: 10px;
   margin: 0;
-  font-size: clamp(14px, calc(var(--size)*1.2), 22px);
+  font-size: clamp(22px, calc(var(--size)*1.2), 28px);
   font-weight: 500;
   word-break: break-word;
   white-space: normal;
