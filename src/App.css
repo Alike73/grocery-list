@@ -55,7 +55,7 @@ h1 {
   margin-bottom: 30px;
   display: flex;
   justify-content: center;
-  width: 320px;
+  width: 100%;
   gap: 10px;
   --b: 5px;   /* the border thickness */
   --h: 1.5em; /* the height */
